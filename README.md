@@ -1,12 +1,21 @@
 # Start
 
+В директории бота пишите
+
 ```
 pip install poetry
 poetry install
-poetry run python -m src
 ```
 
-В директории бота
+В файле .env вносите
+BOT_TOKEN - токен бота в @botfather
+
+APP_ID - id расширения твича
+APP_SECRET - секретный код расширения
+
+```
+poetry run python -m src
+```
 
 # Settings
 
