@@ -13,6 +13,8 @@ poetry install
 - APP_ID - id расширения твича
 - APP_SECRET - секретный код расширения
 
+После чего пишите эту команду
+
 ```
 poetry run python -m src
 ```
