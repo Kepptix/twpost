@@ -8,10 +8,10 @@ poetry install
 ```
 
 В файле .env вносите
-BOT_TOKEN - токен бота в @botfather
 
-APP_ID - id расширения твича
-APP_SECRET - секретный код расширения
+- BOT_TOKEN - токен бота в @botfather
+- APP_ID - id расширения твича
+- APP_SECRET - секретный код расширения
 
 ```
 poetry run python -m src
